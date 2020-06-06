@@ -1,2 +1,2 @@
 # study-notes
-use for daliy study notes
+二分法JAVA算法实现
